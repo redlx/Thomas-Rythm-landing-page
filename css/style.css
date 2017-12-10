@@ -73,10 +73,6 @@ img {
 
 /*Default component  start*/
 
-.logo {
-    opacity: 0.9;
-}
-
 .default-section {
     padding: 140px 0;
 }
@@ -227,6 +223,10 @@ img {
     width: 100%;
     top: 0;
     z-index: 99;
+}
+
+.logo {
+    opacity: 0.9;
 }
 
 .header-nav {
@@ -406,7 +406,7 @@ blockquote span {
 /*Tabs end*/
 
 
-/*Default form eliment*/
+/*Default form element*/
 
 .form-control {
     border: 2px solid #e5e5e5;
@@ -493,7 +493,6 @@ textarea.form-control {
 
 
 /*Btn end*/
-
 
 
 /*Default component end*/
